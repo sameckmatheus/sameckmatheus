@@ -39,7 +39,7 @@
 </div>
   
 <hr>
-<h3 align="center"> <strong>Fale Comigo!</strong> </h3>
+<h3 align="center"> <strong>Contact</strong> </h3>
 <div align="center" style="display: inline_block"><br>
   <a href="https://www.youtube.com/watch?v=uBt_ixTuC-Y" target="_blank"><img height="30" width="115" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/matheusoliveira.ss" target="_blank"><img height="30" width="115" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
