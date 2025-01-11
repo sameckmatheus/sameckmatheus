@@ -44,8 +44,8 @@
 
 ### 🌟 Estatísticas do GitHub:
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameckmatheus&theme=radical" alt="GitHub Streak" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameckmatheus&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="200">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameckmatheus&theme=radical" alt="GitHub Streak" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameckmatheus&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150">
 </p>
 
 ---
