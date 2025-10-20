@@ -1,15 +1,9 @@
 <h1 align="center">👾 Olá, eu sou o Matheus Sameck! 🚀</h1>
-<h3 align="center">Desenvolvedor de software apaixonado por tecnologia, programação e jogos 🎮</h3>
-
-<div align="center">
-    <img src="https://i.imgur.com/zPepxrV.gif" width="600" alt="Coding GIF"/>
-</div>
-
----
+<h3 align="center">Desenvolvedor de software apaixonado por programação e tecnologia 👾</h3>
 
 ### Sobre mim 👋
 - 🎯 Atualmente estou focado no desenvolvimento do [MentalizeApp](https://github.com/sameckmatheus/MentalizeApp).
-- 📚 Aprendendo **Node.js** e **APIs RESTful**.
+- 📚 Estudando sobre **Node.js**, **APIs RESTful**, **Cloud** e **Spring boot**.
 - 🕹️ Fã de jogos retro e desenvolvimento de games.
 - 📫 Como me encontrar: **sameckmatheuspro@gmail.com**.
 - 🛠️ Sempre em busca de novos desafios e soluções criativas.
@@ -48,13 +42,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameckmatheus&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150">
 </p>
 
----
-
-### 🎮 Um pouco mais divertido:
-<p align="center">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Pac-Man GIF"/>
-</p>
-<div align="center">
-    <p>🔹 Amante de jogos retro e pixel art.</p>
-    <p>🔹 Tentando sempre trazer o lado divertido da tecnologia.</p>
 </div>
