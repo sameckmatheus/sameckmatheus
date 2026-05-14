@@ -6,11 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Matheus%20Sameck&fontSize=42&fontColor=f0f6fc&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20Pernambuco%2C%20BR&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Construindo+soluções+que+fazem+a+diferença+🚀;Full+Stack+Developer+%7C+TypeScript+%7C+Python+%7C+Java+☕" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- Quick Stats Badges -->
